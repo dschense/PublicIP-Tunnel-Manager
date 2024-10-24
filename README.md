@@ -13,3 +13,8 @@ tunnel-service.sh --> without tput/color to run as systemd service (for auto con
 4. systemctl daemon-reload
 5. systemctl start/stop tunnel.service
 6. systemctl enable tunnel.servide
+
+All Credits to ©KernelMaker - aka. ©MokkaSchnalle - https://github.com/MokkaSchnalle  
+https://administrator.de/tutorial/feste-ips-zuhause-in-pfsense-via-wireguard-tunnel-1124828094.html  
+
+Just did some little changes.
