@@ -1,8 +1,11 @@
 # PublicIP-Tunnel-Manager
 Bash scripts for managing public IP tunnels via GRE or Wireguard to route public IP to your home router
 
-tunnel.sh --> manual start/stop in terminal
-tunnel-service.sh --> without tput/color to run as systemd service (for auto connect on startup)
+# READ THE WIKI
+
+## What to do
+tunnel.sh --> manual start/stop in terminal  
+tunnel-service.sh --> without tput/color to run as systemd service (for auto connect on startup)  
 
 1. Download the zip
 2. copy tunnel.service to /etc/systemd/system
